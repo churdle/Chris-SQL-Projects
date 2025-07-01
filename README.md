@@ -25,7 +25,7 @@ Welcome to my SQL project portfolio! This is a collection of SQL projects built 
 ## 💡 Tools Used
 - SQL (SQLite syntax via Khan Academy)
 - Text-based `.sql` files
-- GitHub sharing
+- GitHub for sharing
 
 ---
 
